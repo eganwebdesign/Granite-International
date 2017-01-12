@@ -1,0 +1,33 @@
+@font-face {
+  font-family: ge-inspira;
+  src: url("../fonts/GEInspRg.eot") format("eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/GEInspRg.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("../fonts/GEInspRg.woff") format("woff"), /* Modern Browsers */ url("../fonts/GEInspRg.ttf") format("truetype");
+  /* Safari, Android, iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: ge-inspira;
+  src: url("../fonts/GEInspIt.eot") format("eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/GEInspIt.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("../fonts/GEInspIt.woff") format("woff"), url("../fonts/GEInspIt.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: ge-inspira;
+  src: url("../fonts/GEInspMd.eot") format("eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/GEInspMd.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("../fonts/GEInspMd.woff") format("woff"), url("../fonts/GEInspMd.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: ge-inspira;
+  src: url("../fonts/GEInspMdIt.eot") format("eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/GEInspMdIt.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("../fonts/GEInspMdIt.woff") format("woff"), url("../fonts/GEInspMdIt.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
